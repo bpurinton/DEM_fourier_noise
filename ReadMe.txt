@@ -4,7 +4,7 @@ purinton[at]uni-potsdam.de
 
 This MATLAB (TM) function is intended for the spectral analysis of gridded topographic data (DEMs) for analysis on high-frequency, low-wavelength noise as presented in:
 
-Purinton, B., and Bookhagen, B.: Validation of digital elevation models (DEMs) and derived geomorphic metrics on the southern Central Andean Plateau, Earth Surface Dynamics, 2017
+Purinton, B., and Bookhagen, B.: Validation of digital elevation models (DEMs) and geomorphic metrics on the southern Central Andean Plateau, Earth Surface Dynamics, 2017
 
 
 Prior to analysis the user must download and set path to a few required functions:
@@ -22,6 +22,6 @@ Prior to analysis the user must download and set path to a few required function
 
 		https://github.com/csdms-contrib/topotoolbox
 		
-	Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 – MATLAB-based software for topographic analysis and modeling in Earth surface sciences, Earth Surface Dynamics, 2, 1-7, 2014
+	Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 â€“ MATLAB-based software for topographic analysis and modeling in Earth surface sciences, Earth Surface Dynamics, 2, 1-7, 2014
 
 
