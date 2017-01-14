@@ -9,7 +9,7 @@
 % discrete Fourier transform (2D DFT) and associated 1D analysis of DEM
 % noise in:
 % Purinton, B., and Bookhagen, B.: Validation of digital elevation models
-% (DEMs) and derived geomorphic metrics on the southern Central Andean
+% (DEMs) and geomorphic metrics on the southern Central Andean
 % Plateau, Earth Surface Dynamics, 2017.
 %
 % The simple function developed for this analysis is:
@@ -30,7 +30,7 @@
 %
 % Functions for loading and displaying the DEMs are from the TopoToolbox
 % suite in:
-% Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 –
+% Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 â€“
 % MATLAB-based software for topographic analysis and modeling in Earth
 % surface sciences, Earth Surface Dynamics, 2, 1-7, 2014.
 %
