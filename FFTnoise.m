@@ -32,14 +32,14 @@ function h = FFTnoise(data, rotate, nbins, envelope_percentile)
 %
 % References:
 % Purinton, B., and Bookhagen, B.: Validation of digital elevation models
-% (DEMs) and derived geomorphic metrics on the southern Central Andean
+% (DEMs) and geomorphic metrics on the southern Central Andean
 % Plateau, Earth Surface Dynamics, 2017.
 %
 % Perron, J. T., Kirchner, J. W., and Dietrich, W. E.: Spectral signatures
 % of characteristic spatial scales and nonfractal structure in landscapes,
 % Journal of Geophysical Research, 113, 2008.
 %
-% Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 –
+% Schwanghart, W., and Scherler, D.: Short Communication: TopoToolbox 2 â€“
 % MATLAB-based software for topographic analysis and modeling in Earth
 % surface sciences, Earth Surface Dynamics, 2, 1-7, 2014.
 
