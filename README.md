@@ -6,9 +6,11 @@ author: "Ben Purinton ([purinton@uni-potsdam.de](purinton@uni-potsdam.de))"
 
 # CODE MIGRATION TO PYTHON :)
 
-_Note:_ This analysis has been migrated to Python as of May 2020. Proceed below if you want to work with MATLAB<sup>TM</sup>.
+*Note: This analysis has been migrated to Python as of May 2020. Proceed below if you want to work with MATLAB<sup>TM</sup>.*
 
 ___
+
+
 
 ## Matlab code for DEM noise analysis using 2D DFT
 
@@ -17,11 +19,8 @@ This MATLAB<sup>TM</sup> function is intended for the spectral analysis of gridd
 Purinton, B., and Bookhagen, B.: Validation of digital elevation models (DEMs) and geomorphic metrics on the southern Central Andean Plateau, Earth Surface Dynamics, 2017.
 (https://doi.org/10.5194/esurf-5-211-2017)
 
-<<<<<<< HEAD
+
 ## Running it
-=======
-## Running it
->>>>>>> updates
 
 Prior to analysis the user must download and set path to a few required functions:
 
