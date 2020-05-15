@@ -11,7 +11,7 @@ This MATLAB<sup>TM</sup> function is intended for the spectral analysis of gridd
 Purinton, B., and Bookhagen, B.: Validation of digital elevation models (DEMs) and geomorphic metrics on the southern Central Andean Plateau, Earth Surface Dynamics, 2017.
 (https://doi.org/10.5194/esurf-5-211-2017)
 
-# Running it
+### Running it
 
 Prior to analysis the user must download and set path to a few required functions:
 
