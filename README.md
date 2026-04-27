@@ -6,6 +6,8 @@ author: "Ben Purinton ([purinton@uni-potsdam.de](purinton@uni-potsdam.de))"
 
 # CODE MIGRATION TO PYTHON :)
 
+[![DOI](https://zenodo.org/badge/78938372.svg)](https://doi.org/10.5281/zenodo.19807251)
+
 **Note: This analysis has been migrated to Python as of May 2020: [https://github.com/bpurinton/DEM-FFT](https://github.com/bpurinton/DEM-FFT)**  
 
 **Proceed below if you want to work with MATLAB<sup>TM</sup>.**
